@@ -1,0 +1,1 @@
+http://resources.mpi-inf.mpg.de/departments/d5/teaching/ss09/queryoptimization/lecture17.pdf      SQL上的查询优化教程
